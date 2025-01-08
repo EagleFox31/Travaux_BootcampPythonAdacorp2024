@@ -3,6 +3,7 @@ Repo pour les différents travaux liés à la formation de développeur fullstac
 ---
 
 ## **Tuto : Comment utiliser le dépôt GitHub partagé**
+Nom du dépôt : Travaux_BootcampPythonAdacorp2024
 
 ### **1. Préparer l'environnement**
 - Assurez-vous que Git est installé sur votre ordinateur. Si ce n’est pas encore fait, téléchargez et installez-le depuis [Git](https://git-scm.com/).
@@ -18,11 +19,11 @@ Repo pour les différents travaux liés à la formation de développeur fullstac
 1. Ouvrez un terminal ou l’invite de commandes.
 2. Tapez la commande suivante pour cloner le dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo
+   git clone https://github.com/EagleFox31/Travaux_BootcampPythonAdacorp2024.git
    ```
 3. Accédez au répertoire cloné :
    ```bash
-   cd votre-repo
+   cd Travaux_BootcampPythonAdacorp2024
    ```
 
 ---
@@ -92,7 +93,7 @@ Pour vous assurer que vous avez les dernières modifications avant de travailler
 Voici un récapitulatif des commandes Git les plus importantes :
 | **Action**                              | **Commande**                          |
 |-----------------------------------------|---------------------------------------|
-| Cloner le dépôt                         | `git clone <URL>`                     |
+| Cloner le dépôt                         | `git clone https://github.com/EagleFox31/Travaux_BootcampPythonAdacorp2024.git`                     |
 | Ajouter un fichier                      | `git add <nom-du-fichier>`            |
 | Ajouter tous les fichiers               | `git add .`                           |
 | Enregistrer les modifications           | `git commit -m "Message clair"`       |
@@ -106,8 +107,8 @@ Voici un récapitulatif des commandes Git les plus importantes :
 Imaginons que votre nom est **Etudiant1** :
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo
-   cd votre-repo
+   git clone https://github.com/EagleFox31/Travaux_BootcampPythonAdacorp2024.git
+   cd Travaux_BootcampPythonAdacorp2024
    ```
 2. Créer un dossier :
    ```bash
